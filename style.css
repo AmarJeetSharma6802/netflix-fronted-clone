@@ -807,4 +807,10 @@ body {
   text-align: left;
   min-height: 102vh;
 }
+      .second-page-tv {
+        min-height: 90vh;
+    }
+    .third-page-mobile {
+        min-height: 90vh;
+    
 }
